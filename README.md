@@ -16,7 +16,7 @@ WELFake (~63.5k deduplicated articles)
 SHAP TreeExplainer highlights which words push a prediction toward fake vs real.
 
 ## Demo
-[Live app](your-streamlit-cloud-link-here)
+[Live Demo](https://fake-news-detection-9rfdu3z5mf2umtvv3xeu8z.streamlit.app).
 
 ## Setup
 \`\`\`
